@@ -52,6 +52,7 @@ runs:
         systemd-analyze
         systemd-dissect
         systemd-firstboot
+        systemd-measure
         systemd-nspawn
         systemd-repart
         ukify
